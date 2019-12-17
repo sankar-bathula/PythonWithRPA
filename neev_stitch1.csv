@@ -1,0 +1,15 @@
+company_name,Neev Systems LLC
+bill_company,Stitch Fix Inc.
+invoice,1413
+date, 09/03/2019    
+terms, Net 30
+due_date, 10/03/2019
+purchase_order,P11538
+project_name,EDI Project
+item,Consulting
+item_date,08/31/2019
+item_descrb,Suzanne Cleale - Aug 2019
+hours_days,176
+rate,130
+amount,"22,880.00"
+total_due,"22,880.00"
